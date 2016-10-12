@@ -1,0 +1,13 @@
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUI_OnKey.c
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUI_Protected.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUI.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\gui_onkey.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUIVersion.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\LCD_Protected.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUIDebug.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\Core\GUI_X.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\WM\WM_GUI.h
+.\Obj\gui_onkey.o: ..\Ucgui\GUI\WM\WM.h

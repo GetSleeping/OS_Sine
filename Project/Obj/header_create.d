@@ -1,0 +1,11 @@
+.\Obj\header_create.o: ..\Ucgui\GUI\Widget\HEADER_Create.c
+.\Obj\header_create.o: ..\Ucgui\GUI\Widget\HEADER.h
+.\Obj\header_create.o: ..\Ucgui\GUI\Core\GUI.h
+.\Obj\header_create.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\header_create.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\header_create.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\header_create.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\header_create.o: ..\Ucgui\GUI\Core\GUIVersion.h
+.\Obj\header_create.o: ..\Ucgui\GUI\WM\WM.h
+.\Obj\header_create.o: ..\Ucgui\GUI\WM\WM_GUI.h
+.\Obj\header_create.o: ..\Ucgui\GUI\Widget\DIALOG_Intern.h

@@ -1,0 +1,17 @@
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUICharP.c
+.\Obj\guicharp.o: D:\Keil\ARM\RV31\INC\stddef.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUI_Private.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUI_Protected.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUI.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\guicharp.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUIVersion.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\LCD_Protected.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUIDebug.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\GUI_X.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\WM\WM_GUI.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\LCD_Private.h
+.\Obj\guicharp.o: ..\Ucgui\GUI\Core\LCD_ConfDefaults.h
+.\Obj\guicharp.o: ..\Ucgui\Config\LCDConf.h

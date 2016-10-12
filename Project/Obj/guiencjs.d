@@ -1,0 +1,13 @@
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUIEncJS.c
+.\Obj\guiencjs.o: D:\Keil\ARM\RV31\INC\stddef.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUI_Protected.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUI.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\guiencjs.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUIVersion.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\LCD_Protected.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUIDebug.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\Core\GUI_X.h
+.\Obj\guiencjs.o: ..\Ucgui\GUI\WM\WM_GUI.h

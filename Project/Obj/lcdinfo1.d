@@ -1,0 +1,12 @@
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\LCDInfo1.c
+.\Obj\lcdinfo1.o: D:\Keil\ARM\RV31\INC\stddef.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\lcdinfo1.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\LCD_Private.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\LCD_ConfDefaults.h
+.\Obj\lcdinfo1.o: ..\Ucgui\Config\LCDConf.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\LCD_Protected.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\GUI.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\lcdinfo1.o: ..\Ucgui\GUI\Core\GUIVersion.h

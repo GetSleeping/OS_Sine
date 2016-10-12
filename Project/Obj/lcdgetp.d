@@ -1,0 +1,17 @@
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\LCDGetP.c
+.\Obj\lcdgetp.o: D:\Keil\ARM\RV31\INC\stddef.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUI_Private.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUI_Protected.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUI.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\lcdgetp.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUIVersion.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\LCD_Protected.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUIDebug.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\GUI_X.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\WM\WM_GUI.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\LCD_Private.h
+.\Obj\lcdgetp.o: ..\Ucgui\GUI\Core\LCD_ConfDefaults.h
+.\Obj\lcdgetp.o: ..\Ucgui\Config\LCDConf.h

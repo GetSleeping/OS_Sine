@@ -1,0 +1,9 @@
+.\Obj\framewin_create.o: ..\Ucgui\GUI\Widget\FRAMEWIN_Create.c
+.\Obj\framewin_create.o: ..\Ucgui\GUI\Widget\FRAMEWIN.h
+.\Obj\framewin_create.o: ..\Ucgui\GUI\WM\WM.h
+.\Obj\framewin_create.o: ..\Ucgui\GUI\Core\GUI_ConfDefaults.h
+.\Obj\framewin_create.o: ..\Ucgui\Config\GUIConf.h
+.\Obj\framewin_create.o: ..\Ucgui\GUI\Core\GUIType.h
+.\Obj\framewin_create.o: ..\Ucgui\GUI\Core\LCD.h
+.\Obj\framewin_create.o: ..\Ucgui\GUI\WM\WM_GUI.h
+.\Obj\framewin_create.o: ..\Ucgui\GUI\Widget\DIALOG_Intern.h
